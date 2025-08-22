@@ -40,7 +40,6 @@ src="https://img.shields.io/github/followers/GuerreroWelinton?logo=github&style=
 <!-- ### Socials
 
 <p align="left">
-<p align="left">
 <a href="https://github.com/GuerreroWelinton" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitch.tv/your-twitch-username" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
@@ -48,7 +47,9 @@ src="https://img.shields.io/github/followers/GuerreroWelinton?logo=github&style=
 </p> -->
 
 ### My GitHub Stats
+
 <a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GuerreroWelinton&theme=vue-dark&hide_border=true" /></a>
+</br>
 <a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuerreroWelinton&theme=vue-dark&show_icons=true&hide_border=true" /></a>
 
 
