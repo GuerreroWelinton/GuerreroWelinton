@@ -2,9 +2,6 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 I'm Guerrero Welinton.
 =========================================================================================================================================
 
-IT Engineer who enjoys building well-structured, maintainable, and scalable code.
-----------------------------------------------------------------------------------------
-
 I'm an IT Engineer specialized in web development with technologies like Angular, Node.js, JavaScript, TypeScript, among others. I always strive to write clean, scalable code and find the best ways to structure my code and project files.
 <!-- * 🖥️  Check out my portfolio at [My Portfolio](http://your-portfolio-link.com) -->
 * 🌍  I'm based in Ecuador.
@@ -40,18 +37,18 @@ src="https://img.shields.io/github/followers/GuerreroWelinton?logo=github&style=
    <!-- <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> -->
 
-### Socials
+<!-- ### Socials
 
 <p align="left">
 <p align="left">
 <a href="https://github.com/GuerreroWelinton" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<!--  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitch.tv/your-twitch-username" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/your-instagram-username" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p> -->
 
 ### My GitHub Stats
-<!--<a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-stats.vercel.app/api?username=GuerreroWelinton&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GuerreroWelinton's GitHub stats" /></a>-->
+<a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-stats.vercel.app/api?username=GuerreroWelinton&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GuerreroWelinton's GitHub stats" /></a>
 <a href="http://www.github.com/GuerreroWelinton"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=GuerreroWelinton&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
