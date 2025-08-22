@@ -9,9 +9,6 @@ I'm an IT Engineer specialized in web development with technologies like Angular
 * 🧠  Currently learning more about Angular advanced patterns.
 * ⚡  In my free time, I enjoy playing video games, listening to music, and relaxing at the beach.
 
-<a href="https://www.github.com/GuerreroWelinton" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/GuerreroWelinton?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
@@ -51,5 +48,8 @@ src="https://img.shields.io/github/followers/GuerreroWelinton?logo=github&style=
 <a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GuerreroWelinton&theme=vue-dark&hide_border=true" /></a>
 </br>
 <a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuerreroWelinton&theme=vue-dark&show_icons=true&hide_border=true" /></a>
+</br>
+<a href="https://www.github.com/GuerreroWelinton" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/GuerreroWelinton?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
