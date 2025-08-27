@@ -2,12 +2,12 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 I'm Guerrero Welinton.
 =========================================================================================================================================
 
-I'm an IT Engineer specialized in web development with technologies like Angular, Node.js, JavaScript, TypeScript, among others. I always strive to write clean, scalable code and find the best ways to structure my code and project files.
+I’m an IT Engineer specializing in web development with technologies such as Angular, Node.js, JavaScript, and TypeScript. I focus on writing clean, scalable code and building well-structured, maintainable projects.
 <!-- * 🖥️  Check out my portfolio at [My Portfolio](http://your-portfolio-link.com) -->
-* 🌍  I'm based in Ecuador.
-* ✉️  You can contact me at [guerrerozamora213@gmail.com](mailto:guerrerozamora213@gmail.com)
-* 🧠  Currently learning more about Angular advanced patterns.
-* ⚡  In my free time, I enjoy playing video games, listening to music, and relaxing at the beach.
+- 📍 Based in Ecuador.  
+- 📧 Reach me at: [guerrerozamora213@gmail.com](mailto:guerrerozamora213@gmail.com) 
+- 📚 Currently learning more about Angular advanced patterns. 
+- ⚡ In my free time, I enjoy playing video games, listening to music, and relaxing on the beach. 
 
 ### Skills
 
