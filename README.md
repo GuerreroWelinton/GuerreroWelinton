@@ -45,7 +45,7 @@ I’m an IT Engineer specializing in web development with technologies such as A
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GuerreroWelinton&theme=vue-dark&hide_border=true" /></a>
+<a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GuerreroWelinton &theme=vue-dark&hide_border=true" /></a>
 </br>
 <a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuerreroWelinton&theme=vue-dark&show_icons=true&hide_border=true" /></a>
 </br>
