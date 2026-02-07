@@ -43,13 +43,13 @@ I’m an IT Engineer specializing in web development with technologies such as A
 <a href="https://www.instagram.com/your-instagram-username" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p> -->
 
-### My GitHub Stats
+<!-- ### My GitHub Stats
 
 <a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GuerreroWelinton&theme=vue-dark&hide_border=true" /></a>
 </br>
 <a href="http://www.github.com/GuerreroWelinton"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuerreroWelinton&theme=vue-dark&show_icons=true&hide_border=true" /></a>
 </br>
 <a href="https://www.github.com/GuerreroWelinton" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/GuerreroWelinton?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/GuerreroWelinton?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 
