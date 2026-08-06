@@ -167,8 +167,8 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
 <p align="center">
   <a href="https://github.com/GuerreroWelinton">
     <img
-      src="./assets/metrics/personal-calendar.svg"
-      alt="Contribution calendar for the personal account GuerreroWelinton"
+      src="./assets/metrics/personal-isocalendar.svg"
+      alt="3D contribution calendar for the personal account GuerreroWelinton"
       width="100%"
     />
   </a>
@@ -182,8 +182,8 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
 <p align="center">
   <a href="https://github.com/WguerreroZG">
     <img
-      src="./assets/metrics/work-calendar.svg"
-      alt="Contribution calendar for the professional account WguerreroZG"
+      src="./assets/metrics/work-isocalendar.svg"
+      alt="3D contribution calendar for the professional account WguerreroZG"
       width="100%"
     />
   </a>
@@ -191,8 +191,8 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
 
 <p align="center">
   <sub>
-    Professional activity is displayed using aggregated contribution data and does not reveal
-    repository names, source code, or private repository details.
+    Professional activity is displayed using aggregated contribution data and
+    does not reveal repository names, source code, or private repository details.
   </sub>
 </p>
 

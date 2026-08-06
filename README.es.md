@@ -167,8 +167,8 @@ Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccio
 <p align="center">
   <a href="https://github.com/GuerreroWelinton">
     <img
-      src="./assets/metrics/personal-calendar.svg"
-      alt="Calendario de contribuciones de la cuenta personal GuerreroWelinton"
+      src="./assets/metrics/personal-isocalendar.svg"
+      alt="Calendario 3D de contribuciones de la cuenta personal GuerreroWelinton"
       width="100%"
     />
   </a>
@@ -182,8 +182,8 @@ Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccio
 <p align="center">
   <a href="https://github.com/WguerreroZG">
     <img
-      src="./assets/metrics/work-calendar.svg"
-      alt="Calendario de contribuciones de la cuenta profesional WguerreroZG"
+      src="./assets/metrics/work-isocalendar.svg"
+      alt="Calendario 3D de contribuciones de la cuenta profesional WguerreroZG"
       width="100%"
     />
   </a>
@@ -192,7 +192,7 @@ Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccio
 <p align="center">
   <sub>
     La actividad profesional muestra contribuciones agregadas y no revela
-    nombres, código ni detalles de repositorios privados.
+    nombres de repositorios, código fuente ni detalles de repositorios privados.
   </sub>
 </p>
 
