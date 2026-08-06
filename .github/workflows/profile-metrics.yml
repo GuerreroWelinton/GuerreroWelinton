@@ -1,12 +1,19 @@
-name: Profile activity metrics
+name: Update profile contribution calendars
 
 on:
-  # Todos los días a las 11:00 UTC, aproximadamente 06:00 en Ecuador.
   schedule:
-    - cron: "0 11 * * *"
+    # Todos los días aproximadamente a las 06:15 de Ecuador.
+    - cron: "15 11 * * *"
 
-  # Permite ejecutarlo manualmente desde la pestaña Actions.
+  # Permite ejecutarlo manualmente.
   workflow_dispatch:
+
+  # Lo ejecuta cuando se modifica este workflow.
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-metrics.yml"
 
 permissions:
   contents: write
@@ -17,22 +24,38 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate personal account calendar
-        uses: lowlighter/metrics@latest
+      - name: Generate personal contribution calendar
+        uses: lowlighter/metrics@v3.34
         with:
-          filename: assets/metrics/personal-calendar.svg
           token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
           user: GuerreroWelinton
+
+          filename: assets/metrics/personal-calendar.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): update personal calendar [skip ci]"
+
+          template: classic
           base: ""
+          config_timezone: America/Guayaquil
+
           plugin_calendar: yes
           plugin_calendar_limit: 1
 
-      - name: Generate professional account calendar
-        uses: lowlighter/metrics@latest
+      - name: Generate professional contribution calendar
+        uses: lowlighter/metrics@v3.34
         with:
-          filename: assets/metrics/work-calendar.svg
           token: ${{ secrets.METRICS_TOKEN_WORK }}
           user: WguerreroZG
+
+          filename: assets/metrics/work-calendar.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): update professional calendar [skip ci]"
+
+          template: classic
           base: ""
+          config_timezone: America/Guayaquil
+
           plugin_calendar: yes
           plugin_calendar_limit: 1
