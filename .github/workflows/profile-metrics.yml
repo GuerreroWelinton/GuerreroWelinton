@@ -5,10 +5,10 @@ on:
     # Todos los días aproximadamente a las 06:15 de Ecuador.
     - cron: "15 11 * * *"
 
-  # Permite ejecutarlo manualmente.
+  # Permite ejecutarlo manualmente desde Actions.
   workflow_dispatch:
 
-  # Lo ejecuta cuando se modifica este workflow.
+  # Se ejecuta cuando se modifica este archivo.
   push:
     branches:
       - main
@@ -23,7 +23,76 @@ jobs:
     name: Generate contribution calendars
     runs-on: ubuntu-latest
 
+    env:
+      METRICS_DARK_CSS: |
+        :root,
+        body {
+          background-color: #0d1117 !important;
+          color: #c9d1d9 !important;
+        }
+
+        h1,
+        h2,
+        h3 {
+          color: #58a6ff !important;
+        }
+
+        .field svg {
+          fill: #8b949e !important;
+        }
+
+        h1 svg,
+        h2 svg,
+        h3 svg {
+          fill: #58a6ff !important;
+        }
+
+        svg.calendar {
+          display: block !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+
+        svg[viewBox^="0,0 480,"] {
+          display: block !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+
+        .calendar text {
+          fill: #8b949e !important;
+        }
+
+        .calendar .day {
+          outline: 1px solid #30363d !important;
+          outline-offset: -1px !important;
+        }
+
+        [fill="#ebedf0" i] {
+          fill: #161b22 !important;
+        }
+
+        [fill="#9be9a8" i] {
+          fill: #0e4429 !important;
+        }
+
+        [fill="#40c463" i] {
+          fill: #006d32 !important;
+        }
+
+        [fill="#30a14e" i] {
+          fill: #26a641 !important;
+        }
+
+        [fill="#216e39" i] {
+          fill: #39d353 !important;
+        }
+
     steps:
+      # ---------------------------------------------------------
+      # CUENTA PERSONAL: CALENDARIO TRADICIONAL
+      # ---------------------------------------------------------
+
       - name: Generate personal contribution calendar
         uses: lowlighter/metrics@v3.34
         with:
@@ -38,9 +107,15 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Guayaquil
+          config_display: large
+          extras_css: ${{ env.METRICS_DARK_CSS }}
 
           plugin_calendar: yes
           plugin_calendar_limit: 1
+
+      # ---------------------------------------------------------
+      # CUENTA PROFESIONAL: CALENDARIO TRADICIONAL
+      # ---------------------------------------------------------
 
       - name: Generate professional contribution calendar
         uses: lowlighter/metrics@v3.34
@@ -56,6 +131,56 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Guayaquil
+          config_display: large
+          extras_css: ${{ env.METRICS_DARK_CSS }}
 
           plugin_calendar: yes
           plugin_calendar_limit: 1
+
+      # ---------------------------------------------------------
+      # CUENTA PERSONAL: CALENDARIO ISOMÉTRICO
+      # ---------------------------------------------------------
+
+      - name: Generate personal isometric calendar
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+          user: GuerreroWelinton
+
+          filename: assets/metrics/personal-isocalendar.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): update personal isocalendar [skip ci]"
+
+          template: classic
+          base: ""
+          config_timezone: America/Guayaquil
+          config_display: large
+          extras_css: ${{ env.METRICS_DARK_CSS }}
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # ---------------------------------------------------------
+      # CUENTA PROFESIONAL: CALENDARIO ISOMÉTRICO
+      # ---------------------------------------------------------
+
+      - name: Generate professional isometric calendar
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN_WORK }}
+          user: WguerreroZG
+
+          filename: assets/metrics/work-isocalendar.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): update professional isocalendar [skip ci]"
+
+          template: classic
+          base: ""
+          config_timezone: America/Guayaquil
+          config_display: large
+          extras_css: ${{ env.METRICS_DARK_CSS }}
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
