@@ -1,43 +1,43 @@
 <p align="right">
-  <strong>English</strong> · <a href="./README.es.md">Español</a>
+  <a href="./README.md">English</a> · <strong>Español</strong>
 </p>
 
 <p align="center">
   <img
-    src="./assets/banner-en.png"
-    alt="Welinton Guerrero — Full Stack Engineer · Angular Specialist · Products Built with Purpose"
+    src="./assets/banner-es.png"
+    alt="Welinton Guerrero — Ingeniero Full Stack · Especialista en Angular · Productos creados con propósito"
     width="100%"
   />
 </p>
 
 <p align="center">
   <strong>
-    4+ years building scalable web products and maintainable frontend architectures with Angular and TypeScript.
+    Más de 4 años construyendo productos web escalables y arquitecturas frontend mantenibles con Angular y TypeScript.
   </strong>
 </p>
 
 <p align="center">
   📍 Manta, Ecuador
   &nbsp;·&nbsp;
-  🌎 Remote work
+  🌎 Trabajo remoto
   &nbsp;·&nbsp;
-  💼 Freelance projects
+  💼 Proyectos freelance
 </p>
 
 ---
 
-<h2 align="center">About me</h2>
+<h2 align="center">Sobre mí</h2>
 
-I'm an **Information Technology Engineer** and product-minded **Full Stack Engineer**, specialized in **Angular and TypeScript**. I design scalable applications, frontend architectures, component libraries, and reactive flows that turn complex business logic into clear and maintainable experiences.
+Soy **Ingeniero en Tecnologías de la Información** y **Full Stack Engineer orientado a producto**, especializado en **Angular y TypeScript**. Diseño aplicaciones escalables, arquitecturas frontend, librerías de componentes y flujos reactivos que convierten lógica de negocio compleja en experiencias claras y mantenibles.
 
-I currently work at **ZGames Technology**, building transactional and **iGaming** products, external provider integrations, user interfaces, and backend services. While Angular is my main strength, I work with an **end-to-end** product perspective, from data and APIs to the final user experience.
+Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccionales y de **iGaming**, integraciones con proveedores externos, interfaces de usuario y servicios backend. Aunque mi principal fortaleza es Angular, trabajo con una visión **end-to-end**, desde los datos y las APIs hasta la experiencia final del usuario.
 
-- 🧱 Modular Angular architecture with RxJS, NgRx, and Signals.
-- 🧩 Design systems, Storybook, reusable components, and design tokens.
-- ⚙️ APIs with Node.js, NestJS, and SQL/NoSQL databases.
-- ✅ Testing, accessibility, performance, and automation.
+- 🧱 Arquitectura Angular modular con RxJS, NgRx y Signals.
+- 🧩 Sistemas de diseño, Storybook, componentes reutilizables y design tokens.
+- ⚙️ APIs con Node.js, NestJS y bases de datos SQL/NoSQL.
+- ✅ Testing, accesibilidad, rendimiento y automatización.
 
-<h2 align="center">Angular and frontend ecosystem</h2>
+<h2 align="center">Angular y ecosistema frontend</h2>
 
 <p align="center">
   <img
@@ -86,7 +86,7 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
   />
 </p>
 
-<h2 align="center">Additional technologies</h2>
+<h2 align="center">Tecnologías adicionales</h2>
 
 <h3 align="center">Frontend</h3>
 
@@ -99,40 +99,40 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
   </a>
 </p>
 
-<h3 align="center">Backend and databases</h3>
+<h3 align="center">Backend y bases de datos</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,postgres&theme=dark&perline=5"
-      alt="Node.js, NestJS, MongoDB, MySQL, and PostgreSQL"
+      alt="Node.js, NestJS, MongoDB, MySQL y PostgreSQL"
     />
   </a>
 </p>
 
-<h3 align="center">Testing, DevOps, and tools</h3>
+<h3 align="center">Testing, DevOps y herramientas</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=vitest,git,githubactions,docker,aws,postman,figma&theme=dark&perline=7"
-      alt="Vitest, Git, GitHub Actions, Docker, AWS, Postman, and Figma"
+      alt="Vitest, Git, GitHub Actions, Docker, AWS, Postman y Figma"
     />
   </a>
 </p>
 
 <p align="center">
   <sub>
-    Additional experience with Java, Spring Boot, PHP, Python, DigitalOcean, and Hostinger.
+    Experiencia adicional con Java, Spring Boot, PHP, Python, DigitalOcean y Hostinger.
   </sub>
 </p>
 
-<h2 align="center">Selected production projects</h2>
+<h2 align="center">Proyectos destacados en producción</h2>
 
 <p align="center">
   <sub>
-    Public products I have worked on.
-    Their source code is stored in private repositories.
+    Productos públicos en los que he trabajado.
+    Su código fuente se encuentra en repositorios privados.
   </sub>
 </p>
 
@@ -143,7 +143,7 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
         <a href="https://sorti365.com/home">Sorti365</a>
       </h3>
       <p>
-        A <strong>ZGames Technology</strong> product where I contribute as a <strong>Full Stack Engineer</strong>, building user interfaces, backend services, external provider integrations, and transactional flows for the iGaming industry.
+        Producto de <strong>ZGames Technology</strong> en el que participo como <strong>Full Stack Engineer</strong>, desarrollando interfaces, servicios backend, integraciones con proveedores externos y flujos transaccionales para la industria iGaming.
       </p>
     </td>
     <td width="50%" valign="top">
@@ -151,16 +151,16 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
         <a href="https://tecnoredec.com/">Tecnored Ecuador</a>
       </h3>
       <p>
-        An e-commerce platform and admin panel I developed to manage products, inventory, pricing, and promotions. I implemented inventory synchronization between Microsoft SQL Server and MySQL.
+        Plataforma e-commerce y panel administrativo que desarrollé para gestionar productos, inventario, precios y promociones. Implementé la sincronización de inventario entre Microsoft SQL Server y MySQL.
       </p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">GitHub activity</h2>
+<h2 align="center">Actividad en GitHub</h2>
 
 <h3 align="center">
-  Personal account ·
+  Cuenta personal ·
   <a href="https://github.com/GuerreroWelinton">@GuerreroWelinton</a>
 </h3>
 
@@ -168,14 +168,14 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
   <a href="https://github.com/GuerreroWelinton">
     <img
       src="./assets/metrics/personal-calendar.svg"
-      alt="Contribution calendar for the personal account GuerreroWelinton"
+      alt="Calendario de contribuciones de la cuenta personal GuerreroWelinton"
       width="100%"
     />
   </a>
 </p>
 
 <h3 align="center">
-  Professional account ·
+  Cuenta profesional ·
   <a href="https://github.com/WguerreroZG">@WguerreroZG</a>
 </h3>
 
@@ -183,7 +183,7 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
   <a href="https://github.com/WguerreroZG">
     <img
       src="./assets/metrics/work-calendar.svg"
-      alt="Contribution calendar for the professional account WguerreroZG"
+      alt="Calendario de contribuciones de la cuenta profesional WguerreroZG"
       width="100%"
     />
   </a>
@@ -191,8 +191,8 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
 
 <p align="center">
   <sub>
-    Professional activity is displayed using aggregated contribution data and does not reveal
-    repository names, source code, or private repository details.
+    La actividad profesional muestra contribuciones agregadas y no revela
+    nombres, código ni detalles de repositorios privados.
   </sub>
 </p>
 
@@ -200,21 +200,21 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
 
 <p align="center">
   <a href="./assets/cv/Welinton_Guerrero_CV_ES.pdf">
-    <img src="https://img.shields.io/badge/View_CV-Spanish-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV in Spanish" />
+    <img src="https://img.shields.io/badge/Ver_CV-Español-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver currículum en español" />
   </a>
   <a href="./assets/cv/Welinton_Guerrero_CV_EN.pdf">
     <img src="https://img.shields.io/badge/View_CV-English-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV in English" />
   </a>
 </p>
 
-<h2 align="center">Beyond code</h2>
+<h2 align="center">Fuera del código</h2>
 
 <p align="center">
-  When I'm not coding, I enjoy video games, music, and spending time at the beach.
+  Cuando no estoy desarrollando, disfruto los videojuegos, la música y pasar tiempo en la playa.
 </p>
 
 ---
 
 <p align="center">
-  <a href="mailto:guerrerozamora213@gmail.com?subject=Professional%20contact%20from%20GitHub"><strong>Let's talk about web products, Angular, or a freelance collaboration.</strong></a>
+  <a href="mailto:guerrerozamora213@gmail.com?subject=Contacto%20desde%20GitHub"><strong>Hablemos sobre productos web, Angular o una colaboración freelance.</strong></a>
 </p>

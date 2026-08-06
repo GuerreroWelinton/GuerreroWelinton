@@ -1,0 +1,38 @@
+name: Profile activity metrics
+
+on:
+  # Todos los días a las 11:00 UTC, aproximadamente 06:00 en Ecuador.
+  schedule:
+    - cron: "0 11 * * *"
+
+  # Permite ejecutarlo manualmente desde la pestaña Actions.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-calendars:
+    name: Generate contribution calendars
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate personal account calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/personal-calendar.svg
+          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+          user: GuerreroWelinton
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+      - name: Generate professional account calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/work-calendar.svg
+          token: ${{ secrets.METRICS_TOKEN_WORK }}
+          user: WguerreroZG
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
