@@ -157,44 +157,6 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
   </tr>
 </table>
 
-<h2 align="center">GitHub activity</h2>
-
-<h3 align="center">
-  Personal account ·
-  <a href="https://github.com/GuerreroWelinton">@GuerreroWelinton</a>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/GuerreroWelinton">
-    <img
-      src="./assets/metrics/personal-isocalendar.svg"
-      alt="3D contribution calendar for the personal account GuerreroWelinton"
-      width="100%"
-    />
-  </a>
-</p>
-
-<h3 align="center">
-  Professional account ·
-  <a href="https://github.com/WguerreroZG">@WguerreroZG</a>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/WguerreroZG">
-    <img
-      src="./assets/metrics/work-isocalendar.svg"
-      alt="3D contribution calendar for the professional account WguerreroZG"
-      width="100%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    Professional activity is displayed using aggregated contribution data and
-    does not reveal repository names, source code, or private repository details.
-  </sub>
-</p>
 
 <h2 align="center">CV</h2>
 
@@ -218,3 +180,43 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
 <p align="center">
   <a href="mailto:guerrerozamora213@gmail.com?subject=Professional%20contact%20from%20GitHub"><strong>Let's talk about web products, Angular, or a freelance collaboration.</strong></a>
 </p>
+
+<h2 align="center">GitHub activity</h2>
+
+<h3 align="center">
+  Personal account ·
+  <a href="https://github.com/GuerreroWelinton">@GuerreroWelinton</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/GuerreroWelinton">
+    <img
+      src="./assets/metrics/personal-isocalendar.svg"
+      alt="3D contribution calendar for the personal account GuerreroWelinton"
+      width="90%"
+    />
+  </a>
+</p>
+
+<h3 align="center">
+  Professional account ·
+  <a href="https://github.com/WguerreroZG">@WguerreroZG</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/WguerreroZG">
+    <img
+      src="./assets/metrics/work-isocalendar.svg"
+      alt="3D contribution calendar for the professional account WguerreroZG"
+      width="90%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Professional activity is displayed using aggregated contribution data and
+    does not reveal repository names, source code, or private repository details.
+  </sub>
+</p>
+

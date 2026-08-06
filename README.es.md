@@ -157,45 +157,6 @@ Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccio
   </tr>
 </table>
 
-<h2 align="center">Actividad en GitHub</h2>
-
-<h3 align="center">
-  Cuenta personal ·
-  <a href="https://github.com/GuerreroWelinton">@GuerreroWelinton</a>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/GuerreroWelinton">
-    <img
-      src="./assets/metrics/personal-isocalendar.svg"
-      alt="Calendario 3D de contribuciones de la cuenta personal GuerreroWelinton"
-      width="100%"
-    />
-  </a>
-</p>
-
-<h3 align="center">
-  Cuenta profesional ·
-  <a href="https://github.com/WguerreroZG">@WguerreroZG</a>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/WguerreroZG">
-    <img
-      src="./assets/metrics/work-isocalendar.svg"
-      alt="Calendario 3D de contribuciones de la cuenta profesional WguerreroZG"
-      width="100%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    La actividad profesional muestra contribuciones agregadas y no revela
-    nombres de repositorios, código fuente ni detalles de repositorios privados.
-  </sub>
-</p>
-
 <h2 align="center">CV</h2>
 
 <p align="center">
@@ -217,4 +178,44 @@ Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccio
 
 <p align="center">
   <a href="mailto:guerrerozamora213@gmail.com?subject=Contacto%20desde%20GitHub"><strong>Hablemos sobre productos web, Angular o una colaboración freelance.</strong></a>
+</p>
+
+
+<h2 align="center">Actividad en GitHub</h2>
+
+<h3 align="center">
+  Cuenta personal ·
+  <a href="https://github.com/GuerreroWelinton">@GuerreroWelinton</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/GuerreroWelinton">
+    <img
+      src="./assets/metrics/personal-isocalendar.svg"
+      alt="Calendario 3D de contribuciones de la cuenta personal GuerreroWelinton"
+      width="90%"
+    />
+  </a>
+</p>
+
+<h3 align="center">
+  Cuenta profesional ·
+  <a href="https://github.com/WguerreroZG">@WguerreroZG</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/WguerreroZG">
+    <img
+      src="./assets/metrics/work-isocalendar.svg"
+      alt="Calendario 3D de contribuciones de la cuenta profesional WguerreroZG"
+      width="90%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    La actividad profesional muestra contribuciones agregadas y no revela
+    nombres de repositorios, código fuente ni detalles de repositorios privados.
+  </sub>
 </p>

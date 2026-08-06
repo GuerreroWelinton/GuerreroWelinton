@@ -159,7 +159,7 @@ jobs:
           extras_css: ${{ env.METRICS_DARK_CSS }}
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
       # ---------------------------------------------------------
       # CUENTA PROFESIONAL: CALENDARIO ISOMÉTRICO
@@ -183,4 +183,4 @@ jobs:
           extras_css: ${{ env.METRICS_DARK_CSS }}
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
