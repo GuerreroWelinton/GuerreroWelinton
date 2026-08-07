@@ -116,8 +116,8 @@ I currently work at **ZGames Technology** on transactional and **iGaming** produ
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=vitest,jest,git,githubactions,docker,aws,postman,figma&theme=dark&perline=8"
-      alt="Vitest, Jest, Git, GitHub Actions, Docker, AWS, Postman, and Figma"
+      src="https://skillicons.dev/icons?i=vitest,jest,git,githubactions,docker,postman,figma&theme=dark&perline=7"
+      alt="Vitest, Jest, Git, GitHub Actions, Docker, Postman, and Figma"
     />
   </a>
 </p>

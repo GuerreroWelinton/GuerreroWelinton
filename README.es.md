@@ -116,8 +116,8 @@ Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=vitest,jest,git,githubactions,docker,aws,postman,figma&theme=dark&perline=8"
-      alt="Vitest, Jest, Git, GitHub Actions, Docker, AWS, Postman y Figma"
+      src="https://skillicons.dev/icons?i=vitest,jest,git,githubactions,docker,postman,figma&theme=dark&perline=7"
+      alt="Vitest, Jest, Git, GitHub Actions, Docker, Postman y Figma"
     />
   </a>
 </p>
