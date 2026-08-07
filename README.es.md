@@ -3,11 +3,14 @@
 </p>
 
 <p align="center">
-  <img
-    src="./assets/banner-es.png"
-    alt="Welinton Guerrero · Ingeniero Full Stack · Especialista en Angular · Productos creados con propósito"
-    width="100%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-es-dark.png">
+    <img
+      src="./assets/banner-es-light.png"
+      alt="Welinton Guerrero · Ingeniero Full Stack · Especialista en Angular · Productos creados con propósito"
+      width="100%"
+    />
+  </picture>
 </p>
 
 <p align="center">
@@ -75,10 +78,6 @@ Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de 
     src="https://img.shields.io/badge/ng--bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
     alt="ng-bootstrap"
   />
-  <img
-    src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"
-    alt="Storybook"
-  />
 </p>
 
 <h2 align="center">Tecnologías adicionales</h2>
@@ -99,8 +98,8 @@ Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,postgres&theme=dark&perline=5"
-      alt="Node.js, NestJS, MongoDB, MySQL y PostgreSQL"
+      src="https://skillicons.dev/icons?i=nodejs,nestjs,php,py,mongodb,mysql,postgres&theme=dark&perline=7"
+      alt="Node.js, NestJS, PHP, Python, MongoDB, MySQL y PostgreSQL"
     />
   </a>
 </p>
@@ -117,19 +116,14 @@ Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de 
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"
-    alt="Testing Library"
-  />
-  <img
-    src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white"
-    alt="Lighthouse"
-  />
+  <sub>
+    Experiencia adicional con Storybook, Testing Library, Lighthouse, DigitalOcean y Hostinger.
+  </sub>
 </p>
 
 <p align="center">
   <sub>
-    Experiencia adicional con Java, Spring Boot, PHP, Python, DigitalOcean y Hostinger.
+    Familiarizado con Java y Spring Boot.
   </sub>
 </p>
 

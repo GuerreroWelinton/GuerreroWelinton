@@ -3,11 +3,14 @@
 </p>
 
 <p align="center">
-  <img
-    src="./assets/banner-en.png"
-    alt="Welinton Guerrero · Full Stack Engineer · Angular Specialist · Products Built with Purpose"
-    width="100%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-en-dark.png">
+    <img
+      src="./assets/banner-en-light.png"
+      alt="Welinton Guerrero · Full Stack Engineer · Angular Specialist · Products Built with Purpose"
+      width="100%"
+    />
+  </picture>
 </p>
 
 <p align="center">
@@ -75,10 +78,6 @@ I currently work at **ZGames Technology** on transactional and **iGaming** produ
     src="https://img.shields.io/badge/ng--bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
     alt="ng-bootstrap"
   />
-  <img
-    src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"
-    alt="Storybook"
-  />
 </p>
 
 <h2 align="center">Additional technologies</h2>
@@ -99,8 +98,8 @@ I currently work at **ZGames Technology** on transactional and **iGaming** produ
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,postgres&theme=dark&perline=5"
-      alt="Node.js, NestJS, MongoDB, MySQL, and PostgreSQL"
+      src="https://skillicons.dev/icons?i=nodejs,nestjs,php,py,mongodb,mysql,postgres&theme=dark&perline=7"
+      alt="Node.js, NestJS, PHP, Python, MongoDB, MySQL, and PostgreSQL"
     />
   </a>
 </p>
@@ -117,19 +116,14 @@ I currently work at **ZGames Technology** on transactional and **iGaming** produ
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"
-    alt="Testing Library"
-  />
-  <img
-    src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white"
-    alt="Lighthouse"
-  />
+  <sub>
+    Additional experience with Storybook, Testing Library, Lighthouse, DigitalOcean, and Hostinger.
+  </sub>
 </p>
 
 <p align="center">
   <sub>
-    Additional experience with Java, Spring Boot, PHP, Python, DigitalOcean, and Hostinger.
+    Familiar with Java and Spring Boot.
   </sub>
 </p>
 
