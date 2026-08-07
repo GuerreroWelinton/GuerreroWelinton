@@ -5,7 +5,7 @@
 <p align="center">
   <img
     src="./assets/banner-en.png"
-    alt="Welinton Guerrero — Full Stack Engineer · Angular Specialist · Products Built with Purpose"
+    alt="Welinton Guerrero · Full Stack Engineer · Angular Specialist · Products Built with Purpose"
     width="100%"
   />
 </p>
@@ -30,7 +30,7 @@
 
 I'm an **Information Technology Engineer** working as a **Full Stack Engineer**, mostly with **Angular, TypeScript, and Node.js**. I like building the whole picture of a product: the interfaces people use, the flows behind them, and the services that keep everything running.
 
-I currently work at **ZGames Technology** on transactional and **iGaming** products — user interfaces, backend services, and integrations with external providers. Angular is where I feel most at home, but I enjoy working end-to-end, from the data and APIs to what the user finally sees.
+I currently work at **ZGames Technology** on transactional and **iGaming** products: user interfaces, backend services, and integrations with external providers. Angular is where I feel most at home, but I enjoy working end-to-end, from the data and APIs to what the user finally sees.
 
 - 🧱 Modular Angular architecture with RxJS, NgRx, and Signals.
 - 🧩 Design systems, Storybook, reusable components, and design tokens.
@@ -158,7 +158,7 @@ I currently work at **ZGames Technology** on transactional and **iGaming** produ
         A <strong>ZGames Technology</strong> sports betting and casino portal where I work as a <strong>Full Stack Engineer</strong>. I structured the Angular frontend architecture and its reusable base components, built backend services for users, reports, bets, and transactions, and worked on <strong>sportsbook and casino integrations</strong> with external providers, validating operational and financial flows before certification and supporting them in production.
       </p>
       <p>
-        <sub>I also build ZGames' internal management platforms — a back office and an operations dashboard.</sub>
+        <sub>I also build ZGames' internal management platforms: a back office and an operations dashboard.</sub>
       </p>
     </td>
     <td width="50%" valign="top">

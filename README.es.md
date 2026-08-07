@@ -5,7 +5,7 @@
 <p align="center">
   <img
     src="./assets/banner-es.png"
-    alt="Welinton Guerrero — Ingeniero Full Stack · Especialista en Angular · Productos creados con propósito"
+    alt="Welinton Guerrero · Ingeniero Full Stack · Especialista en Angular · Productos creados con propósito"
     width="100%"
   />
 </p>
@@ -158,7 +158,7 @@ Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de 
         Portal de apuestas deportivas y casino de <strong>ZGames Technology</strong> en el que trabajo como <strong>Full Stack Engineer</strong>. Estructuré la arquitectura frontend en Angular y sus componentes base reutilizables, desarrollé servicios backend para usuarios, reportes, apuestas y transacciones, y participé en las <strong>integraciones de sportsbook y casino</strong> con proveedores externos, validando flujos operativos y financieros antes de su certificación y dando soporte en producción.
       </p>
       <p>
-        <sub>También desarrollo las plataformas internas de gestión de ZGames — un back office y un panel de operaciones.</sub>
+        <sub>También desarrollo las plataformas internas de gestión de ZGames: un back office y un panel de operaciones.</sub>
       </p>
     </td>
     <td width="50%" valign="top">
