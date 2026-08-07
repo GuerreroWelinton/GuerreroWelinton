@@ -204,11 +204,14 @@ I currently work at **ZGames Technology** on transactional and **iGaming** produ
 
 <p align="center">
   <a href="https://github.com/GuerreroWelinton">
-    <img
-      src="./assets/metrics/personal-isocalendar.svg"
-      alt="3D contribution calendar for the personal account GuerreroWelinton"
-      width="90%"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/personal-isocalendar-dark.svg">
+      <img
+        src="./assets/metrics/personal-isocalendar-light.svg"
+        alt="3D contribution calendar for the personal account GuerreroWelinton"
+        width="90%"
+      />
+    </picture>
   </a>
 </p>
 
@@ -219,11 +222,14 @@ I currently work at **ZGames Technology** on transactional and **iGaming** produ
 
 <p align="center">
   <a href="https://github.com/WguerreroZG">
-    <img
-      src="./assets/metrics/work-isocalendar.svg"
-      alt="3D contribution calendar for the professional account WguerreroZG"
-      width="90%"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/work-isocalendar-dark.svg">
+      <img
+        src="./assets/metrics/work-isocalendar-light.svg"
+        alt="3D contribution calendar for the professional account WguerreroZG"
+        width="90%"
+      />
+    </picture>
   </a>
 </p>
 

@@ -204,11 +204,14 @@ Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de 
 
 <p align="center">
   <a href="https://github.com/GuerreroWelinton">
-    <img
-      src="./assets/metrics/personal-isocalendar.svg"
-      alt="Calendario 3D de contribuciones de la cuenta personal GuerreroWelinton"
-      width="90%"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/personal-isocalendar-dark.svg">
+      <img
+        src="./assets/metrics/personal-isocalendar-light.svg"
+        alt="Calendario 3D de contribuciones de la cuenta personal GuerreroWelinton"
+        width="90%"
+      />
+    </picture>
   </a>
 </p>
 
@@ -219,11 +222,14 @@ Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de 
 
 <p align="center">
   <a href="https://github.com/WguerreroZG">
-    <img
-      src="./assets/metrics/work-isocalendar.svg"
-      alt="Calendario 3D de contribuciones de la cuenta profesional WguerreroZG"
-      width="90%"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/work-isocalendar-dark.svg">
+      <img
+        src="./assets/metrics/work-isocalendar-light.svg"
+        alt="Calendario 3D de contribuciones de la cuenta profesional WguerreroZG"
+        width="90%"
+      />
+    </picture>
   </a>
 </p>
 

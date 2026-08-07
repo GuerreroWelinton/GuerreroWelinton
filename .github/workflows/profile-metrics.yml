@@ -47,25 +47,10 @@ jobs:
           fill: #58a6ff !important;
         }
 
-        svg.calendar {
-          display: block !important;
-          margin-left: auto !important;
-          margin-right: auto !important;
-        }
-
         svg[viewBox^="0,0 480,"] {
           display: block !important;
           margin-left: auto !important;
           margin-right: auto !important;
-        }
-
-        .calendar text {
-          fill: #8b949e !important;
-        }
-
-        .calendar .day {
-          outline: 1px solid #30363d !important;
-          outline-offset: -1px !important;
         }
 
         [fill="#ebedf0" i] {
@@ -88,69 +73,50 @@ jobs:
           fill: #39d353 !important;
         }
 
+      METRICS_LIGHT_CSS: |
+        :root,
+        body {
+          background-color: #ffffff !important;
+          color: #24292f !important;
+        }
+
+        h1,
+        h2,
+        h3 {
+          color: #0969da !important;
+        }
+
+        .field svg {
+          fill: #57606a !important;
+        }
+
+        h1 svg,
+        h2 svg,
+        h3 svg {
+          fill: #0969da !important;
+        }
+
+        svg[viewBox^="0,0 480,"] {
+          display: block !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+
     steps:
       # ---------------------------------------------------------
-      # CUENTA PERSONAL: CALENDARIO TRADICIONAL
+      # CUENTA PERSONAL: CALENDARIO ISOMÉTRICO (OSCURO)
       # ---------------------------------------------------------
 
-      - name: Generate personal contribution calendar
+      - name: Generate personal isometric calendar (dark)
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
           user: GuerreroWelinton
 
-          filename: assets/metrics/personal-calendar.svg
+          filename: assets/metrics/personal-isocalendar-dark.svg
           output_action: commit
           committer_branch: main
-          committer_message: "chore(metrics): update personal calendar [skip ci]"
-
-          template: classic
-          base: ""
-          config_timezone: America/Guayaquil
-          config_display: large
-          extras_css: ${{ env.METRICS_DARK_CSS }}
-
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-
-      # ---------------------------------------------------------
-      # CUENTA PROFESIONAL: CALENDARIO TRADICIONAL
-      # ---------------------------------------------------------
-
-      - name: Generate professional contribution calendar
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN_WORK }}
-          user: WguerreroZG
-
-          filename: assets/metrics/work-calendar.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore(metrics): update professional calendar [skip ci]"
-
-          template: classic
-          base: ""
-          config_timezone: America/Guayaquil
-          config_display: large
-          extras_css: ${{ env.METRICS_DARK_CSS }}
-
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-
-      # ---------------------------------------------------------
-      # CUENTA PERSONAL: CALENDARIO ISOMÉTRICO
-      # ---------------------------------------------------------
-
-      - name: Generate personal isometric calendar
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
-          user: GuerreroWelinton
-
-          filename: assets/metrics/personal-isocalendar.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore(metrics): update personal isocalendar [skip ci]"
+          committer_message: "chore(metrics): update personal isocalendar (dark) [skip ci]"
 
           template: classic
           base: ""
@@ -162,25 +128,73 @@ jobs:
           plugin_isocalendar_duration: half-year
 
       # ---------------------------------------------------------
-      # CUENTA PROFESIONAL: CALENDARIO ISOMÉTRICO
+      # CUENTA PERSONAL: CALENDARIO ISOMÉTRICO (CLARO)
       # ---------------------------------------------------------
 
-      - name: Generate professional isometric calendar
+      - name: Generate personal isometric calendar (light)
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+          user: GuerreroWelinton
+
+          filename: assets/metrics/personal-isocalendar-light.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): update personal isocalendar (light) [skip ci]"
+
+          template: classic
+          base: ""
+          config_timezone: America/Guayaquil
+          config_display: large
+          extras_css: ${{ env.METRICS_LIGHT_CSS }}
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      # ---------------------------------------------------------
+      # CUENTA PROFESIONAL: CALENDARIO ISOMÉTRICO (OSCURO)
+      # ---------------------------------------------------------
+
+      - name: Generate professional isometric calendar (dark)
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN_WORK }}
           user: WguerreroZG
 
-          filename: assets/metrics/work-isocalendar.svg
+          filename: assets/metrics/work-isocalendar-dark.svg
           output_action: commit
           committer_branch: main
-          committer_message: "chore(metrics): update professional isocalendar [skip ci]"
+          committer_message: "chore(metrics): update professional isocalendar (dark) [skip ci]"
 
           template: classic
           base: ""
           config_timezone: America/Guayaquil
           config_display: large
           extras_css: ${{ env.METRICS_DARK_CSS }}
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      # ---------------------------------------------------------
+      # CUENTA PROFESIONAL: CALENDARIO ISOMÉTRICO (CLARO)
+      # ---------------------------------------------------------
+
+      - name: Generate professional isometric calendar (light)
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN_WORK }}
+          user: WguerreroZG
+
+          filename: assets/metrics/work-isocalendar-light.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): update professional isocalendar (light) [skip ci]"
+
+          template: classic
+          base: ""
+          config_timezone: America/Guayaquil
+          config_display: large
+          extras_css: ${{ env.METRICS_LIGHT_CSS }}
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
