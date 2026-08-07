@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>
-    4+ years building scalable web products and maintainable frontend architectures with Angular and TypeScript.
+    4+ years building web products with Angular, TypeScript and Node.js.
   </strong>
 </p>
 
@@ -28,14 +28,15 @@
 
 <h2 align="center">About me</h2>
 
-I'm an **Information Technology Engineer** and product-minded **Full Stack Engineer**, specialized in **Angular and TypeScript**. I design scalable applications, frontend architectures, component libraries, and reactive flows that turn complex business logic into clear and maintainable experiences.
+I'm an **Information Technology Engineer** working as a **Full Stack Engineer**, mostly with **Angular, TypeScript, and Node.js**. I like building the whole picture of a product: the interfaces people use, the flows behind them, and the services that keep everything running.
 
-I currently work at **ZGames Technology**, building transactional and **iGaming** products, external provider integrations, user interfaces, and backend services. While Angular is my main strength, I work with an **end-to-end** product perspective, from data and APIs to the final user experience.
+I currently work at **ZGames Technology** on transactional and **iGaming** products — user interfaces, backend services, and integrations with external providers. Angular is where I feel most at home, but I enjoy working end-to-end, from the data and APIs to what the user finally sees.
 
 - 🧱 Modular Angular architecture with RxJS, NgRx, and Signals.
 - 🧩 Design systems, Storybook, reusable components, and design tokens.
 - ⚙️ APIs with Node.js, NestJS, and SQL/NoSQL databases.
-- ✅ Testing, accessibility, performance, and automation.
+- ✅ Unit and component testing with Vitest, Jest, and Testing Library.
+- 🚦 Performance audits with Lighthouse and CI/CD pipelines with GitHub Actions.
 
 <h2 align="center">Angular and frontend ecosystem</h2>
 
@@ -115,10 +116,21 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=vitest,git,githubactions,docker,aws,postman,figma&theme=dark&perline=7"
-      alt="Vitest, Git, GitHub Actions, Docker, AWS, Postman, and Figma"
+      src="https://skillicons.dev/icons?i=vitest,jest,git,githubactions,docker,aws,postman,figma&theme=dark&perline=8"
+      alt="Vitest, Jest, Git, GitHub Actions, Docker, AWS, Postman, and Figma"
     />
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"
+    alt="Testing Library"
+  />
+  <img
+    src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white"
+    alt="Lighthouse"
+  />
 </p>
 
 <p align="center">
@@ -143,7 +155,10 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
         <a href="https://sorti365.com/home">Sorti365</a>
       </h3>
       <p>
-        A <strong>ZGames Technology</strong> product where I contribute as a <strong>Full Stack Engineer</strong>, building user interfaces, backend services, external provider integrations, and transactional flows for the iGaming industry.
+        A <strong>ZGames Technology</strong> sports betting and casino portal where I work as a <strong>Full Stack Engineer</strong>. I structured the Angular frontend architecture and its reusable base components, built backend services for users, reports, bets, and transactions, and worked on <strong>sportsbook and casino integrations</strong> with external providers, validating operational and financial flows before certification and supporting them in production.
+      </p>
+      <p>
+        <sub>I also build ZGames' internal management platforms — a back office and an operations dashboard.</sub>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -151,12 +166,11 @@ I currently work at **ZGames Technology**, building transactional and **iGaming*
         <a href="https://tecnoredec.com/">Tecnored Ecuador</a>
       </h3>
       <p>
-        An e-commerce platform and admin panel I developed to manage products, inventory, pricing, and promotions. I implemented inventory synchronization between Microsoft SQL Server and MySQL.
+        An e-commerce platform and admin panel I built end-to-end with PHP and JavaScript. I wrote a <strong>Python ETL</strong> that syncs inventory from the company's local SQL Server into MySQL without touching their legacy system, and a <strong>bulk import module</strong> connected to the Google Sheets API to create and edit products from spreadsheets. I also designed the admin interface from scratch to manage categories, brands, galleries, and promotions.
       </p>
     </td>
   </tr>
 </table>
-
 
 <h2 align="center">CV</h2>
 

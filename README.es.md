@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>
-    Más de 4 años construyendo productos web escalables y arquitecturas frontend mantenibles con Angular y TypeScript.
+    Más de 4 años construyendo productos web con Angular, TypeScript y Node.js.
   </strong>
 </p>
 
@@ -28,14 +28,15 @@
 
 <h2 align="center">Sobre mí</h2>
 
-Soy **Ingeniero en Tecnologías de la Información** y **Full Stack Engineer orientado a producto**, especializado en **Angular y TypeScript**. Diseño aplicaciones escalables, arquitecturas frontend, librerías de componentes y flujos reactivos que convierten lógica de negocio compleja en experiencias claras y mantenibles.
+Soy **Ingeniero en Tecnologías de la Información** y trabajo como **Full Stack Engineer**, principalmente con **Angular, TypeScript y Node.js**. Me gusta construir el producto completo: las interfaces que usa la gente, los flujos que hay detrás y los servicios que lo mantienen funcionando.
 
-Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccionales y de **iGaming**, integraciones con proveedores externos, interfaces de usuario y servicios backend. Aunque mi principal fortaleza es Angular, trabajo con una visión **end-to-end**, desde los datos y las APIs hasta la experiencia final del usuario.
+Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de **iGaming**: interfaces de usuario, servicios backend e integraciones con proveedores externos. Angular es donde me siento más cómodo, pero disfruto trabajar end-to-end, desde los datos y las APIs hasta lo que finalmente ve el usuario.
 
 - 🧱 Arquitectura Angular modular con RxJS, NgRx y Signals.
 - 🧩 Sistemas de diseño, Storybook, componentes reutilizables y design tokens.
 - ⚙️ APIs con Node.js, NestJS y bases de datos SQL/NoSQL.
-- ✅ Testing, accesibilidad, rendimiento y automatización.
+- ✅ Testing unitario y de componentes con Vitest, Jest y Testing Library.
+- 🚦 Auditorías de rendimiento con Lighthouse y CI/CD con GitHub Actions.
 
 <h2 align="center">Angular y ecosistema frontend</h2>
 
@@ -115,10 +116,21 @@ Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccio
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=vitest,git,githubactions,docker,aws,postman,figma&theme=dark&perline=7"
-      alt="Vitest, Git, GitHub Actions, Docker, AWS, Postman y Figma"
+      src="https://skillicons.dev/icons?i=vitest,jest,git,githubactions,docker,aws,postman,figma&theme=dark&perline=8"
+      alt="Vitest, Jest, Git, GitHub Actions, Docker, AWS, Postman y Figma"
     />
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"
+    alt="Testing Library"
+  />
+  <img
+    src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white"
+    alt="Lighthouse"
+  />
 </p>
 
 <p align="center">
@@ -143,7 +155,10 @@ Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccio
         <a href="https://sorti365.com/home">Sorti365</a>
       </h3>
       <p>
-        Producto de <strong>ZGames Technology</strong> en el que participo como <strong>Full Stack Engineer</strong>, desarrollando interfaces, servicios backend, integraciones con proveedores externos y flujos transaccionales para la industria iGaming.
+        Portal de apuestas deportivas y casino de <strong>ZGames Technology</strong> en el que trabajo como <strong>Full Stack Engineer</strong>. Estructuré la arquitectura frontend en Angular y sus componentes base reutilizables, desarrollé servicios backend para usuarios, reportes, apuestas y transacciones, y participé en las <strong>integraciones de sportsbook y casino</strong> con proveedores externos, validando flujos operativos y financieros antes de su certificación y dando soporte en producción.
+      </p>
+      <p>
+        <sub>También desarrollo las plataformas internas de gestión de ZGames — un back office y un panel de operaciones.</sub>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -151,7 +166,7 @@ Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccio
         <a href="https://tecnoredec.com/">Tecnored Ecuador</a>
       </h3>
       <p>
-        Plataforma e-commerce y panel administrativo que desarrollé para gestionar productos, inventario, precios y promociones. Implementé la sincronización de inventario entre Microsoft SQL Server y MySQL.
+        Plataforma e-commerce y panel administrativo que desarrollé de punta a punta con PHP y JavaScript. Construí un <strong>ETL en Python</strong> que sincroniza el inventario desde el SQL Server local de la empresa hacia MySQL sin alterar su sistema legado, y un <strong>módulo de importación masiva</strong> conectado a la API de Google Sheets para crear y editar productos desde hojas de cálculo. También diseñé desde cero la interfaz administrativa para gestionar categorías, marcas, galerías y ofertas.
       </p>
     </td>
   </tr>
@@ -179,7 +194,6 @@ Actualmente trabajo en **ZGames Technology**, desarrollando productos transaccio
 <p align="center">
   <a href="mailto:guerrerozamora213@gmail.com?subject=Contacto%20desde%20GitHub"><strong>Hablemos sobre productos web, Angular o una colaboración freelance.</strong></a>
 </p>
-
 
 <h2 align="center">Actividad en GitHub</h2>
 
