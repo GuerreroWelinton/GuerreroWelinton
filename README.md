@@ -32,12 +32,6 @@ I'm an **Information Technology Engineer** working as a **Full Stack Engineer**,
 
 I currently work at **ZGames Technology** on transactional and **iGaming** products: user interfaces, backend services, and integrations with external providers. Angular is where I feel most at home, but I enjoy working end-to-end, from the data and APIs to what the user finally sees.
 
-- 🧱 Modular Angular architecture with RxJS, NgRx, and Signals.
-- 🧩 Design systems, Storybook, reusable components, and design tokens.
-- ⚙️ APIs with Node.js, NestJS, and SQL/NoSQL databases.
-- ✅ Unit and component testing with Vitest, Jest, and Testing Library.
-- 🚦 Performance audits with Lighthouse and CI/CD pipelines with GitHub Actions.
-
 <h2 align="center">Angular and frontend ecosystem</h2>
 
 <p align="center">
