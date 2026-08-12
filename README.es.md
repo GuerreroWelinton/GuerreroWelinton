@@ -7,7 +7,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-es-dark.png">
     <img
       src="./assets/banner-es-light.png"
-      alt="Welinton Guerrero · Ingeniero Full Stack · Especialista en Angular · Productos creados con propósito"
+      alt="Welinton Guerrero · Ingeniero en TI · Desarrollador Full Stack · Productos creados con propósito"
       width="100%"
     />
   </picture>
@@ -31,9 +31,11 @@
 
 <h2 align="center">Sobre mí</h2>
 
-Soy **Ingeniero en Tecnologías de la Información** y trabajo como **Full Stack Engineer**, principalmente con **Angular, TypeScript y Node.js**. Me gusta construir el producto completo: las interfaces que usa la gente, los flujos que hay detrás y los servicios que lo mantienen funcionando.
+Soy **Ingeniero en Tecnologías de la Información** y actualmente trabajo como **Desarrollador Full Stack**. Gran parte de mi día a día gira alrededor de **Angular, TypeScript y Node.js**, aunque no suelo limitarme a una sola parte del producto.
 
-Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de **iGaming**: interfaces de usuario, servicios backend e integraciones con proveedores externos. Angular es donde me siento más cómodo, pero disfruto trabajar end-to-end, desde los datos y las APIs hasta lo que finalmente ve el usuario.
+Me gusta entender lo que estoy construyendo de principio a fin. Eso puede significar trabajar en una interfaz, definir cómo se mueve la información entre servicios, integrar una API externa o resolver algún detalle en backend que termina afectando directamente la experiencia del usuario.
+
+Actualmente formo parte de **ZGames Technology**, donde trabajo en productos transaccionales y de **iGaming**. He participado en el desarrollo de interfaces, servicios backend e integraciones con distintos proveedores. **Angular** es probablemente la tecnología con la que más cómodo me siento, pero disfruto especialmente los proyectos en los que puedo moverme entre frontend y backend y entender cómo encaja todo.
 
 <h2 align="center">Angular y ecosistema frontend</h2>
 
@@ -143,7 +145,7 @@ Actualmente trabajo en **ZGames Technology**, en productos transaccionales y de 
         <a href="https://sorti365.com/home">Sorti365</a>
       </h3>
       <p>
-        Portal de apuestas deportivas y casino de <strong>ZGames Technology</strong> en el que trabajo como <strong>Full Stack Engineer</strong>. Estructuré la arquitectura frontend en Angular y sus componentes base reutilizables, desarrollé servicios backend para usuarios, reportes, apuestas y transacciones, y participé en las <strong>integraciones de sportsbook y casino</strong> con proveedores externos, validando flujos operativos y financieros antes de su certificación y dando soporte en producción.
+        Portal de apuestas deportivas y casino de <strong>ZGames Technology</strong> en el que trabajo como <strong>Desarrollador Full Stack</strong>. Estructuré la arquitectura frontend en Angular y sus componentes base reutilizables, desarrollé servicios backend para usuarios, reportes, apuestas y transacciones, y participé en las <strong>integraciones de sportsbook y casino</strong> con proveedores externos, validando flujos operativos y financieros antes de su certificación y dando soporte en producción.
       </p>
       <p>
         <sub>También desarrollo las plataformas internas de gestión de ZGames: un back office y un panel de operaciones.</sub>

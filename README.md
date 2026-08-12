@@ -7,7 +7,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-en-dark.png">
     <img
       src="./assets/banner-en-light.png"
-      alt="Welinton Guerrero · Full Stack Engineer · Angular Specialist · Products Built with Purpose"
+      alt="Welinton Guerrero · IT Engineer · Full Stack Developer · Products Built with Purpose"
       width="100%"
     />
   </picture>
@@ -31,9 +31,11 @@
 
 <h2 align="center">About me</h2>
 
-I'm an **Information Technology Engineer** working as a **Full Stack Engineer**, mostly with **Angular, TypeScript, and Node.js**. I like building the whole picture of a product: the interfaces people use, the flows behind them, and the services that keep everything running.
+I'm an **Information Technology Engineer** currently working as a **Full Stack Developer**. Most of my day-to-day work involves **Angular, TypeScript, and Node.js**, although I rarely stay on just one side of the product.
 
-I currently work at **ZGames Technology** on transactional and **iGaming** products: user interfaces, backend services, and integrations with external providers. Angular is where I feel most at home, but I enjoy working end-to-end, from the data and APIs to what the user finally sees.
+I like understanding what I'm building from end to end. Sometimes that means working on an interface, figuring out how data should move between services, integrating an external API, or solving something in the backend that eventually has a direct impact on the user experience.
+
+I'm currently part of **ZGames Technology**, where I work on transactional and **iGaming** products. My work has involved user interfaces, backend services, and integrations with different providers. **Angular** is probably where I feel most at home, but I enjoy projects where I can move between frontend and backend and understand how all the pieces fit together.
 
 <h2 align="center">Angular and frontend ecosystem</h2>
 
@@ -143,7 +145,7 @@ I currently work at **ZGames Technology** on transactional and **iGaming** produ
         <a href="https://sorti365.com/home">Sorti365</a>
       </h3>
       <p>
-        A <strong>ZGames Technology</strong> sports betting and casino portal where I work as a <strong>Full Stack Engineer</strong>. I structured the Angular frontend architecture and its reusable base components, built backend services for users, reports, bets, and transactions, and worked on <strong>sportsbook and casino integrations</strong> with external providers, validating operational and financial flows before certification and supporting them in production.
+        A <strong>ZGames Technology</strong> sports betting and casino portal where I work as a <strong>Full Stack Developer</strong>. I structured the Angular frontend architecture and its reusable base components, built backend services for users, reports, bets, and transactions, and worked on <strong>sportsbook and casino integrations</strong> with external providers, validating operational and financial flows before certification and supporting them in production.
       </p>
       <p>
         <sub>I also build ZGames' internal management platforms: a back office and an operations dashboard.</sub>
