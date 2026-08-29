@@ -60,16 +60,10 @@ Suelo meterme en las decisiones técnicas del producto y no solo en la parte que
 <h3 align="center">Stack principal</h3>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=angular,ts,nodejs,mongodb,vitest,docker&theme=dark"
-    />
-    <img
-      src="https://skillicons.dev/icons?i=angular,ts,nodejs,mongodb,vitest,docker&theme=light"
-      alt="Angular, TypeScript, Node.js, MongoDB, Vitest, Docker"
-    />
-  </picture>
+  <img
+    src="https://skillicons.dev/icons?i=angular,ts,nodejs,mongodb,vitest,docker"
+    alt="Angular, TypeScript, Node.js, MongoDB, Vitest, Docker"
+  />
 </p>
 
 <h3 align="center">Por área</h3>
