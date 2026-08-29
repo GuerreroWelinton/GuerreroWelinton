@@ -4,10 +4,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-en-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://welintonguerrero.com/brand/github-en-dark.webp">
     <img
-      src="./assets/banner-en-light.png"
-      alt="Welinton Guerrero · Full Stack Engineer · Angular Specialist · Products Built with Purpose"
+      src="https://welintonguerrero.com/brand/github-en-light.webp"
+      alt="Welinton Guerrero · IT Engineer · Full Stack Developer"
       width="100%"
     />
   </picture>
@@ -15,193 +15,89 @@
 
 <p align="center">
   <strong>
-    4+ years building web products with Angular, TypeScript and Node.js.
+    I build web platforms that serve several companies from one codebase.
+    <br />
+    3+ years on betting products, e-commerce and internal tools.
   </strong>
 </p>
 
 <p align="center">
-  📍 Manta, Ecuador
-  &nbsp;·&nbsp;
-  🌎 Remote work
-  &nbsp;·&nbsp;
-  💼 Freelance projects
+  📍 Manta, Ecuador&nbsp;·&nbsp;🌎 <strong>Available for remote roles</strong>&nbsp;·&nbsp;💼 <strong>Available for freelance projects</strong>
 </p>
 
 ---
 
 <h2 align="center">About me</h2>
 
-I'm an **Information Technology Engineer** working as a **Full Stack Engineer**, mostly with **Angular, TypeScript, and Node.js**. I like building the whole picture of a product: the interfaces people use, the flows behind them, and the services that keep everything running.
+I'm an **Information Technology Engineer** working as a **Full Stack Developer** at **ZGames Technology**, on transactional and **iGaming** products. **Angular** is my strongest area, but I rarely stay on one side of the product. Some days are for building an interface and others for deciding how data moves between services, plugging in an external API, or fixing something in the backend that the user ends up feeling anyway.
 
-I currently work at **ZGames Technology** on transactional and **iGaming** products: user interfaces, backend services, and integrations with external providers. Angular is where I feel most at home, but I enjoy working end-to-end, from the data and APIs to what the user finally sees.
+I get into the technical decisions on the product and not only the part assigned to me, though a good share of the work is not technical at all. Answering support when something breaks in production, or sitting in a meeting to agree on what comes next, is building the product too.
 
-<h2 align="center">Angular and frontend ecosystem</h2>
+**Beyond code**, I enjoy video games, music, and spending time at the beach.
+
+<h2 align="center">Where to find me</h2>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
-    alt="Angular"
-  />
-  <img
-    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="TypeScript"
-  />
-  <img
-    src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"
-    alt="RxJS"
-  />
-  <img
-    src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white"
-    alt="NgRx"
-  />
-  <img
-    src="https://img.shields.io/badge/Signals-C3002F?style=for-the-badge&logo=angular&logoColor=white"
-    alt="Angular Signals"
-  />
-  <img
-    src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white"
-    alt="Nx"
-  />
-  <img
-    src="https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white"
-    alt="Angular Material"
-  />
-  <img
-    src="https://img.shields.io/badge/Angular_CDK-607D8B?style=for-the-badge&logo=angular&logoColor=white"
-    alt="Angular CDK"
-  />
-  <img
-    src="https://img.shields.io/badge/PrimeNG-41B883?style=for-the-badge"
-    alt="PrimeNG"
-  />
-  <img
-    src="https://img.shields.io/badge/ng--bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
-    alt="ng-bootstrap"
-  />
+  <a href="https://welintonguerrero.com">
+    <img src="https://img.shields.io/badge/welintonguerrero.com-0F7A4A?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Visit the portfolio" />
+  </a>
+  <a href="mailto:guerrerozamora213@gmail.com?subject=Professional%20contact%20from%20GitHub">
+    <img src="https://img.shields.io/badge/Send_me_an_email-1F883D?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+  </a>
 </p>
 
-<h2 align="center">Additional technologies</h2>
+<p align="center">
+  <a href="https://welintonguerrero.com/cv/Welinton_Guerrero_CV_ES.pdf">
+    <img src="https://img.shields.io/badge/View_CV-Spanish-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" alt="View CV in Spanish" />
+  </a>
+  <a href="https://welintonguerrero.com/cv/Welinton_Guerrero_CV_EN.pdf">
+    <img src="https://img.shields.io/badge/View_CV-English-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" alt="View CV in English" />
+  </a>
+</p>
 
-<h3 align="center">Frontend</h3>
+<h2 align="center">Stack</h2>
+
+<h3 align="center">Core stack</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,react&theme=dark&perline=8"
-      alt="JavaScript, HTML, CSS, Sass, Tailwind CSS, Bootstrap, React"
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=angular,ts,nodejs,mongodb,vitest,docker&theme=dark"
     />
-  </a>
-</p>
-
-<h3 align="center">Backend and databases</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=nodejs,nestjs,php,py,mongodb,mysql,postgres&theme=dark&perline=7"
-      alt="Node.js, NestJS, PHP, Python, MongoDB, MySQL, and PostgreSQL"
+      src="https://skillicons.dev/icons?i=angular,ts,nodejs,mongodb,vitest,docker&theme=light"
+      alt="Angular, TypeScript, Node.js, MongoDB, Vitest, Docker"
     />
-  </a>
+  </picture>
 </p>
 
-<h3 align="center">Testing, DevOps, and tools</h3>
+<h3 align="center">By area</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=vitest,jest,git,githubactions,docker,postman,figma&theme=dark&perline=7"
-      alt="Vitest, Jest, Git, GitHub Actions, Docker, Postman, and Figma"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    Additional experience with Storybook, Testing Library, Lighthouse, DigitalOcean, and Hostinger.
-  </sub>
-</p>
-
-<p align="center">
-  <sub>
-    Familiar with Java and Spring Boot.
-  </sub>
-</p>
-
-<h2 align="center">Selected production projects</h2>
-
-<p align="center">
-  <sub>
-    Public products I have worked on.
-    Their source code is stored in private repositories.
-  </sub>
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://sorti365.com/home">Sorti365</a>
-      </h3>
-      <p>
-        A <strong>ZGames Technology</strong> sports betting and casino portal where I work as a <strong>Full Stack Engineer</strong>. I structured the Angular frontend architecture and its reusable base components, built backend services for users, reports, bets, and transactions, and worked on <strong>sportsbook and casino integrations</strong> with external providers, validating operational and financial flows before certification and supporting them in production.
-      </p>
-      <p>
-        <sub>I also build ZGames' internal management platforms: a back office and an operations dashboard.</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://tecnoredec.com/">Tecnored Ecuador</a>
-      </h3>
-      <p>
-        An e-commerce platform and admin panel I built end-to-end with PHP and JavaScript. I wrote a <strong>Python ETL</strong> that syncs inventory from the company's local SQL Server into MySQL without touching their legacy system, and a <strong>bulk import module</strong> connected to the Google Sheets API to create and edit products from spreadsheets. I also designed the admin interface from scratch to manage categories, brands, galleries, and promotions.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">CV</h2>
-
-<p align="center">
-  <a href="./assets/cv/Welinton_Guerrero_CV_ES.pdf">
-    <img src="https://img.shields.io/badge/View_CV-Spanish-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV in Spanish" />
-  </a>
-  <a href="./assets/cv/Welinton_Guerrero_CV_EN.pdf">
-    <img src="https://img.shields.io/badge/View_CV-English-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV in English" />
-  </a>
-</p>
-
-<h2 align="center">Beyond code</h2>
-
-<p align="center">
-  When I'm not coding, I enjoy video games, music, and spending time at the beach.
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:guerrerozamora213@gmail.com?subject=Professional%20contact%20from%20GitHub"><strong>Let's talk about web products, Angular, or a freelance collaboration.</strong></a>
-</p>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Frontend</strong></td>
+        <td>Angular · RxJS · NgRx · Signals · JavaScript · TypeScript · CSS · React · Storybook</td>
+      </tr>
+      <tr>
+        <td><strong>Backend and databases</strong></td>
+        <td>Node.js · Python · PHP · MongoDB · PostgreSQL · MySQL</td>
+      </tr>
+      <tr>
+        <td><strong>Testing and quality</strong></td>
+        <td>Vitest · Testing Library · Chromatic</td>
+      </tr>
+      <tr>
+        <td><strong>DevOps and tools</strong></td>
+        <td>Docker · GitHub Actions · DigitalOcean · Seq</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <h2 align="center">GitHub activity</h2>
-
-<h3 align="center">
-  Personal account ·
-  <a href="https://github.com/GuerreroWelinton">@GuerreroWelinton</a>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/GuerreroWelinton">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/personal-isocalendar-dark.svg">
-      <img
-        src="./assets/metrics/personal-isocalendar-light.svg"
-        alt="3D contribution calendar for the personal account GuerreroWelinton"
-        width="90%"
-      />
-    </picture>
-  </a>
-</p>
 
 <h3 align="center">
   Professional account ·
@@ -227,4 +123,3 @@ I currently work at **ZGames Technology** on transactional and **iGaming** produ
     does not reveal repository names, source code, or private repository details.
   </sub>
 </p>
-
