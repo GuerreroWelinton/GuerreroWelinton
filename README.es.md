@@ -4,10 +4,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://welintonguerrero.com/brand/github-es-dark.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://welintonguerrero.com/brand/github-dark.webp">
     <img
-      src="https://welintonguerrero.com/brand/github-es-light.webp"
-      alt="Welinton Guerrero · Ingeniero en TI · Desarrollador Full Stack"
+      src="https://welintonguerrero.com/brand/github-light.webp"
+      alt="Welinton Guerrero · Software Engineer · Full Stack Developer"
       width="100%"
     />
   </picture>
@@ -15,9 +15,9 @@
 
 <p align="center">
   <strong>
-    Construyo plataformas web que sirven a varias empresas desde un mismo código.
+    Construyo plataformas web multi-tenant que le dan a cada operador su propia marca desde un mismo código.
     <br />
-    Más de 3 años en productos de apuestas, e-commerce y herramientas internas.
+    Más de 3 años en productos de iGaming, e-commerce y herramientas internas.
   </strong>
 </p>
 
@@ -29,7 +29,7 @@
 
 <h2 align="center">Sobre mí</h2>
 
-Soy **Ingeniero en Tecnologías de la Información** y trabajo como **Desarrollador Full Stack** en **ZGames Technology**, en productos transaccionales y de **iGaming**. **Angular** es mi punto fuerte, pero rara vez me quedo en un solo lado del producto. Hay días de construir una interfaz y otros de decidir cómo se mueven los datos entre servicios, conectar una API externa o resolver algo en el backend que el usuario igual termina notando.
+Soy **Software Engineer** y trabajo como **Full Stack Developer** en **ZGames Technology**, en productos transaccionales y de **iGaming**. **Angular** es mi punto fuerte, pero rara vez me quedo en un solo lado del producto. Hay días de construir una interfaz y otros de decidir cómo se mueven los datos entre servicios, conectar una API externa o resolver algo en el backend que el usuario igual termina notando.
 
 Suelo meterme en las decisiones técnicas del producto y no solo en la parte que me toca, aunque buena parte del trabajo ni siquiera es técnica. Dar soporte cuando algo falla en producción o sentarse a acordar en una reunión también es construir el producto.
 
@@ -117,3 +117,4 @@ Suelo meterme en las decisiones técnicas del producto y no solo en la parte que
     nombres de repositorios, código fuente ni detalles de repositorios privados.
   </sub>
 </p>
+

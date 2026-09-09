@@ -4,10 +4,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://welintonguerrero.com/brand/github-en-dark.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://welintonguerrero.com/brand/github-dark.webp">
     <img
-      src="https://welintonguerrero.com/brand/github-en-light.webp"
-      alt="Welinton Guerrero · IT Engineer · Full Stack Developer"
+      src="https://welintonguerrero.com/brand/github-light.webp"
+      alt="Welinton Guerrero · Software Engineer · Full Stack Developer"
       width="100%"
     />
   </picture>
@@ -15,9 +15,9 @@
 
 <p align="center">
   <strong>
-    I build web platforms that serve several companies from one codebase.
+    I build multi-tenant web platforms that give each operator its own brand from one codebase.
     <br />
-    3+ years on betting products, e-commerce and internal tools.
+    3+ years on iGaming products, e-commerce and internal tools.
   </strong>
 </p>
 
@@ -29,7 +29,7 @@
 
 <h2 align="center">About me</h2>
 
-I'm an **Information Technology Engineer** working as a **Full Stack Developer** at **ZGames Technology**, on transactional and **iGaming** products. **Angular** is my strongest area, but I rarely stay on one side of the product. Some days are for building an interface and others for deciding how data moves between services, plugging in an external API, or fixing something in the backend that the user ends up feeling anyway.
+I'm a **Software Engineer** working as a **Full Stack Developer** at **ZGames Technology**, on transactional and **iGaming** products. **Angular** is my strongest area, but I rarely stay on one side of the product. Some days are for building an interface and others for deciding how data moves between services, plugging in an external API, or fixing something in the backend that the user ends up feeling anyway.
 
 I get into the technical decisions on the product and not only the part assigned to me, though a good share of the work is not technical at all. Answering support when something breaks in production, or sitting in a meeting to agree on what comes next, is building the product too.
 
@@ -117,3 +117,4 @@ I get into the technical decisions on the product and not only the part assigned
     does not reveal repository names, source code, or private repository details.
   </sub>
 </p>
+
