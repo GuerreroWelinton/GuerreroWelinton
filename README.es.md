@@ -17,7 +17,7 @@
   <strong>
     Construyo plataformas web multi-tenant que le dan a cada operador su propia marca desde un mismo código.
     <br />
-    Más de 3 años en productos de iGaming, e-commerce y herramientas internas.
+    Especializado en Angular, TypeScript, Spring Boot, Node.js y sistemas transaccionales.
   </strong>
 </p>
 
@@ -29,9 +29,14 @@
 
 <h2 align="center">Sobre mí</h2>
 
-Soy **Software Engineer** y trabajo como **Full Stack Developer** en **ZGames Technology**, en productos transaccionales y de **iGaming**. **Angular** es mi punto fuerte, pero rara vez me quedo en un solo lado del producto. Hay días de construir una interfaz y otros de decidir cómo se mueven los datos entre servicios, conectar una API externa o resolver algo en el backend que el usuario igual termina notando.
+Soy **Software Engineer** y trabajo como **Full Stack Developer** en **ZGames Technology**, construyendo plataformas multi-tenant de **iGaming** y sistemas transaccionales de alta disponibilidad.
 
-Suelo meterme en las decisiones técnicas del producto y no solo en la parte que me toca, aunque buena parte del trabajo ni siquiera es técnica. Dar soporte cuando algo falla en producción o sentarse a acordar en una reunión también es construir el producto.
+* **Frontend Architecture:** Diseño arquitecturas modulares en **Angular** gobernadas por **Design Tokens**, permitiendo que múltiples operadores mantengan su identidad de marca sobre un único código base (+50.000 cuentas de jugadores en producción).
+* **Backend & Integrations:** Desarrollo APIs REST y servicios de integración con proveedores externos en **Java (Spring Boot)** y **Node.js**, asegurando consistencia transaccional y validación de flujos financieros.
+* **Observabilidad & Resiliencia:** Integro telemetría estructurada con **Seq** para correlación de fallos en depósitos, trazabilidad de endpoints críticos y monitoreo preventivo ante caídas de proveedores.
+* **Automatización Pragmática:** Diseñé pipelines ETL en **Python** para sincronizar miles de productos desde sistemas legados sin interrumpir operaciones comerciales.
+
+Creo en el software predecible, los contratos de datos estrictos y la arquitectura limpia por sobre atajos temporales.
 
 **Fuera del código**, disfruto los videojuegos, la música y pasar tiempo en la playa.
 
@@ -73,19 +78,19 @@ Suelo meterme en las decisiones técnicas del producto y no solo en la parte que
     <tbody>
       <tr>
         <td><strong>Frontend</strong></td>
-        <td>Angular · RxJS · NgRx · Signals · JavaScript · TypeScript · CSS · React · Storybook</td>
+        <td>Angular · TypeScript · RxJS · NgRx · Signals · React · Storybook</td>
       </tr>
       <tr>
-        <td><strong>Backend y bases de datos</strong></td>
-        <td>Node.js · Python · PHP · MongoDB · PostgreSQL · MySQL</td>
+        <td><strong>Backend</strong></td>
+        <td>Node.js · Spring Boot · Java · Python · PHP</td>
       </tr>
       <tr>
-        <td><strong>Testing y calidad</strong></td>
-        <td>Vitest · Testing Library · Chromatic</td>
+        <td><strong>Bases de datos</strong></td>
+        <td>PostgreSQL · MongoDB · MySQL · Redis</td>
       </tr>
       <tr>
-        <td><strong>DevOps y herramientas</strong></td>
-        <td>Docker · GitHub Actions · DigitalOcean · Seq</td>
+        <td><strong>Testing y DevOps</strong></td>
+        <td>Vitest · Testing Library · Docker · GitHub Actions · Seq · DigitalOcean</td>
       </tr>
     </tbody>
   </table>

@@ -17,7 +17,7 @@
   <strong>
     I build multi-tenant web platforms that give each operator its own brand from one codebase.
     <br />
-    3+ years on iGaming products, e-commerce and internal tools.
+    Specialized in Angular, TypeScript, Spring Boot, Node.js, and transactional systems.
   </strong>
 </p>
 
@@ -29,9 +29,14 @@
 
 <h2 align="center">About me</h2>
 
-I'm a **Software Engineer** working as a **Full Stack Developer** at **ZGames Technology**, on transactional and **iGaming** products. **Angular** is my strongest area, but I rarely stay on one side of the product. Some days are for building an interface and others for deciding how data moves between services, plugging in an external API, or fixing something in the backend that the user ends up feeling anyway.
+I am a **Software Engineer** and **Full Stack Developer** at **ZGames Technology**, building multi-tenant **iGaming** platforms and high-availability transactional systems.
 
-I get into the technical decisions on the product and not only the part assigned to me, though a good share of the work is not technical at all. Answering support when something breaks in production, or sitting in a meeting to agree on what comes next, is building the product too.
+* **Frontend Architecture:** I build modular **Angular** architectures powered by **Design Tokens**, allowing multiple operators to deploy distinct brand identities from a single codebase (supporting 50,000+ active player accounts in production).
+* **Backend & Integrations:** I engineer REST APIs and external provider integration services in **Java (Spring Boot)** and **Node.js**, guaranteeing transactional integrity and pre-certification financial validation.
+* **Observability & Reliability:** I integrate structured logging with **Seq** for deposit failure correlation, critical endpoint tracing, and third-party downtime alerting.
+* **Pragmatic Integrations:** I designed autonomous **Python** ETL pipelines to sync thousands of catalogue items from legacy ERPs without operational disruption.
+
+I value predictable systems, strict data contracts, and architectural discipline over short-lived shortcuts.
 
 **Beyond code**, I enjoy video games, music, and spending time at the beach.
 
@@ -73,19 +78,19 @@ I get into the technical decisions on the product and not only the part assigned
     <tbody>
       <tr>
         <td><strong>Frontend</strong></td>
-        <td>Angular · RxJS · NgRx · Signals · JavaScript · TypeScript · CSS · React · Storybook</td>
+        <td>Angular · TypeScript · RxJS · NgRx · Signals · React · Storybook</td>
       </tr>
       <tr>
-        <td><strong>Backend and databases</strong></td>
-        <td>Node.js · Python · PHP · MongoDB · PostgreSQL · MySQL</td>
+        <td><strong>Backend</strong></td>
+        <td>Node.js · Spring Boot · Java · Python · PHP</td>
       </tr>
       <tr>
-        <td><strong>Testing and quality</strong></td>
-        <td>Vitest · Testing Library · Chromatic</td>
+        <td><strong>Databases</strong></td>
+        <td>PostgreSQL · MongoDB · MySQL · Redis</td>
       </tr>
       <tr>
-        <td><strong>DevOps and tools</strong></td>
-        <td>Docker · GitHub Actions · DigitalOcean · Seq</td>
+        <td><strong>Testing and DevOps</strong></td>
+        <td>Vitest · Testing Library · Docker · GitHub Actions · Seq · DigitalOcean</td>
       </tr>
     </tbody>
   </table>
