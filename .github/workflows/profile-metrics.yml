@@ -104,52 +104,48 @@ jobs:
 
     steps:
       # ---------------------------------------------------------
-      # CUENTA PERSONAL: CALENDARIO ISOMÉTRICO (OSCURO)
+      # CUENTA PERSONAL: CALENDARIO ISOMÉTRICO (DESACTIVADO)
       # ---------------------------------------------------------
 
-      - name: Generate personal isometric calendar (dark)
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
-          user: GuerreroWelinton
+      # - name: Generate personal isometric calendar (dark)
+      #   uses: lowlighter/metrics@v3.34
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+      #     user: GuerreroWelinton
+      #
+      #     filename: assets/metrics/personal-isocalendar-dark.svg
+      #     output_action: commit
+      #     committer_branch: main
+      #     committer_message: "chore(metrics): update personal isocalendar (dark) [skip ci]"
+      #
+      #     template: classic
+      #     base: ""
+      #     config_timezone: America/Guayaquil
+      #     config_display: large
+      #     extras_css: ${{ env.METRICS_DARK_CSS }}
+      #
+      #     plugin_isocalendar: yes
+      #     plugin_isocalendar_duration: half-year
 
-          filename: assets/metrics/personal-isocalendar-dark.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore(metrics): update personal isocalendar (dark) [skip ci]"
-
-          template: classic
-          base: ""
-          config_timezone: America/Guayaquil
-          config_display: large
-          extras_css: ${{ env.METRICS_DARK_CSS }}
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-      # ---------------------------------------------------------
-      # CUENTA PERSONAL: CALENDARIO ISOMÉTRICO (CLARO)
-      # ---------------------------------------------------------
-
-      - name: Generate personal isometric calendar (light)
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
-          user: GuerreroWelinton
-
-          filename: assets/metrics/personal-isocalendar-light.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore(metrics): update personal isocalendar (light) [skip ci]"
-
-          template: classic
-          base: ""
-          config_timezone: America/Guayaquil
-          config_display: large
-          extras_css: ${{ env.METRICS_LIGHT_CSS }}
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+      # - name: Generate personal isometric calendar (light)
+      #   uses: lowlighter/metrics@v3.34
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+      #     user: GuerreroWelinton
+      #
+      #     filename: assets/metrics/personal-isocalendar-light.svg
+      #     output_action: commit
+      #     committer_branch: main
+      #     committer_message: "chore(metrics): update personal isocalendar (light) [skip ci]"
+      #
+      #     template: classic
+      #     base: ""
+      #     config_timezone: America/Guayaquil
+      #     config_display: large
+      #     extras_css: ${{ env.METRICS_LIGHT_CSS }}
+      #
+      #     plugin_isocalendar: yes
+      #     plugin_isocalendar_duration: half-year
 
       # ---------------------------------------------------------
       # CUENTA PROFESIONAL: CALENDARIO ISOMÉTRICO (OSCURO)
@@ -158,7 +154,7 @@ jobs:
       - name: Generate professional isometric calendar (dark)
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN_WORK }}
+          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
           user: WguerreroZG
 
           filename: assets/metrics/work-isocalendar-dark.svg
@@ -182,7 +178,7 @@ jobs:
       - name: Generate professional isometric calendar (light)
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN_WORK }}
+          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
           user: WguerreroZG
 
           filename: assets/metrics/work-isocalendar-light.svg
